@@ -69,7 +69,7 @@ In the client GUI:
 - Enter Port → 5000
 - Click Connect
 
-  ### 🔹 Step 4:  Start Chatting
+### 🔹 Step 4:  Start Chatting
 - Open multiple clients (same PC or different PCs)
 - Send messages
 - Messages will be broadcast to all connected clients 💬
